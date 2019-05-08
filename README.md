@@ -16,7 +16,8 @@ _ _ _
 
 
 **In** ***Maple:***
-* _MapleEOM_: Constituye una alternativa al código '_EOM_' para realizar la evaluación en componentes y traducción a variables adimensionales de las ecuaciones de evolución. Éste código carece de muchas de las funcionalidades que '_EOM_' sí ofrece; no obstante, su tiempo de cómputo es mucho menor y por ello resulta muy útil para comprobar las ecuaciones de evolución generadas por '_EOM_'.
+* _MapleEOM_: Constitutes an alternative to the code '_EOM_' in order to copmute the evaluation in components and translation into adimensional variables of the evolution equations. This code lacks of many functionalities that '_EOM_' offers; however, its processing time is way much shorter and, hence, it works very well to verify the evolution equations produced by '_EOM_'. On the other hand, this code is also useful to demonstrate that the conservation equation DivT=0 is satisfied automatically when the evolution equations for the vector fields and the metric hold, and hence, DivT=0 doesn't constitutes an independent constrain equation.
+
 
 _ _ _ 
 

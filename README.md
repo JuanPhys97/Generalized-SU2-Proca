@@ -1,6 +1,6 @@
 # Generalized-SU2-Proca
 
-The following repository contains 4 codes that were created as a part of a research project developed in 2019 by Juan Camilo Garnica Aguirre in order to achieve the title of 'Physicist' at Universidad Industrial de Santander, Colombia.  The corresponding dissertation manuscript was entitled:
+The following repository contains 4 codes that were created in 2019 by Juan Camilo Garnica Aguirre as a part of the corresponding research developed in order to achieve the title of 'Physicist' at Universidad Industrial de Santander, Colombia.  The corresponding dissertation manuscript was entitled:
 
 "_Inflación y energía oscura en la teoría SU(2) generalizada de Proca_" (Original in spanish).
 

@@ -1,6 +1,6 @@
 # Generalized-SU2-Proca
 
-The following repository contains 4 codes that were created in 2019 by Juan Camilo Garnica Aguirre as a part of the corresponding research developed in order to achieve the title of 'Physicist' at Universidad Industrial de Santander, Colombia.  The corresponding dissertation manuscript was entitled:
+The following repository contains 4 codes that were developed in 2019 by Juan Camilo Garnica Aguirre during the research he made in order to achieve the title of 'Physicist' at Universidad Industrial de Santander, Colombia. Its corresponding dissertation manuscript was entitled:
 
 "_Inflación y energía oscura en la teoría SU(2) generalizada de Proca_" (Original in spanish).
 
@@ -8,7 +8,7 @@ _ _ _
 
 **In** ***Mathematica:***
 
-* _EOM_: Was designed to compute the evolution (Euler-Lagrange) equations, them in components, translate them into a new set of adimensional variables and analyze the stability conditions in the high k (sub-horizon) regime of the most general lagrangian considered here. Other features of this code include: the option to consider more general scenarios with Type I Bianchi universes and orthogonal triads with vectors of different magnitudes, the possibility to compare equations of motion with its manual counterparts (deduced using the formulae shown in the dissertation manuscript), and the implementation of a sector of the code whose only purpose is that of the verification of the isotropy of the Energy-Momentum tensor. Future versions of this code will include the analysis of instabilities and speed of gravity.
+* _EOM_: Was designed to compute the evolution (Euler-Lagrange) equations, evaluate them in components, translate them into a new set of adimensional variables and analyze the stability conditions in the high k (sub-horizon) regime of the most general lagrangian considered here. Other features of this code include: the option to consider more general scenarios with Type I Bianchi universes and orthogonal triads with vectors of different magnitudes, the possibility to compare equations of motion with its manual counterparts (deduced using the formulae shown in the dissertation manuscript), and the implementation of a sector of the code whose only purpose is that of the verification of the isotropy of the Energy-Momentum tensor. Future versions of this code will include the analysis of instabilities and speed of gravity.
 
 * _AllContractions_: Was designed to exhaustively produce all Lagrangians of the form {X^2, XY, XZ, Y^2, YZ, Z^2} (according to '_Stable solutions of inflation driven by vector fields_' by Emami et.al, 2017) which belong to the Lagrangian L2 composed by arbitrary functions of the vector fields and its Abelian strength tensor.
 

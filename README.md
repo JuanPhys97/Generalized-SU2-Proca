@@ -13,7 +13,7 @@ _ _ _
 
 * _AllContractions_: Was designed to exhaustively produce all Lagrangians of the form {X^2, XY, XZ, Y^2, YZ, Z^2} (according to '_Stable solutions of inflation driven by vector fields_' by Emami et.al, 2017) which belong to the Lagrangian L2 composed by arbitrary functions of the vector fields and its Abelian strength tensor.
 
-* _LDynamics_: Was designed to develope an exhaustive analysis of the dynamics of the autonomous system of the theory, by computing and clasifying all its critical points at the same time that it analyzes the viability of interesting asymptotic behaviours; it also has a sector of the code whose only purpose is that of the creation of numerical solutions. It is important to remark that in this code it is asumed that the components of hot and cold matter are independent, not allowing relativistic particles to decay into non-relativistic particles and viceversa.
+* _LDynamics_: Was designed to develope an exhaustive analysis of the dynamics of the autonomous system of the theory, by computing and clasifying all its critical points, analyzing the viability of interesting asymptotic behaviours, producing different phase diagrams and investigating the correspondant stability-consistency constraints for the tensor modes; it also has a sector of the code whose only purpose is that of the creation of numerical solutions. It is important to remark that in this code it is asumed that the components of hot and cold matter are independent, not allowing relativistic particles to decay into non-relativistic particles and viceversa.
 
 
 **In** ***Maple:***

@@ -21,6 +21,6 @@ _ _ _
 
 _ _ _ 
 
-The notation implemented in this codes (especially those of _Mathematica_) is 'self-explained' and resembles the notation used in every standard General Relativity textbook. In case of doubts or suggestions, you can contact the author via e-mail: juancagarnica@hotmail.com .
+The notation implemented in these codes (especially those of _Mathematica_) is 'self-explained' and resembles the notation used in every standard General Relativity textbook. In case of doubts or suggestions, you can contact the author via e-mail: juancagarnica@hotmail.com .
 
 - - -
